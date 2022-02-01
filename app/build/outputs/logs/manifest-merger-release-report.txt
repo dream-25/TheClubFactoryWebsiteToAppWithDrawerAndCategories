@@ -1,0 +1,304 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7dfa422c18ad9223f37c601e951fcfa0\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7bf4aeaa1d95e124243f20a66be76260\transformed\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.mejdi14:Flat-Dialog-Android:1.0.5] C:\Users\Dream-25\.gradle\caches\transforms-3\815560d445068cd144a79823b7882ad0\transformed\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dream-25\.gradle\caches\transforms-3\8a465f8cfe6f0ab2d5da740546bb407a\transformed\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dream-25\.gradle\caches\transforms-3\a10843e442cdb96fff75327367678e29\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:15:1-38:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcc516b8613ec61847bcb1ce5dac2a2b\transformed\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\8ac5107814229ccd8eaf3d766884892c\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\bf46a347bffa5dce9bb1bdcb5b97d2bd\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\f956c16548c58ce1078431fc766c10e2\transformed\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcbb152dcd128dd989d8adc79318361a\transformed\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\80793405049b732c02577f3c2a3e9e7f\transformed\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fa7fe4e9a132905ba31ef98f70bc056c\transformed\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\498a5cbbec5c1977c0e9b3942f02bac4\transformed\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\dd95165f5a8cb405c80b45a1836da3a5\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Dream-25\.gradle\caches\transforms-3\2c81880a3b6f6be97f8a02e61385051e\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\472d626b2695d04472b5bc1e9db1498e\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\e4aac63f6918ce7eaa908441a4245efa\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\d0c569b4c4c5e9c11fe54b0890315606\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Dream-25\.gradle\caches\transforms-3\23a82155093ff6f57ec4059427f0fa72\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\6aaa0925d076cd9b9fc23140fa4885c0\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\781a8f6017fcfc78ca67be60d45a0c75\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\9ac0419185c097d28e141d1a7c0eaf39\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\028cb95e81e463f4365fd9d14bdf34f7\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\426d935ec11949d2be554a5dc048f4db\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\f6813ee4a60ea2ca6b9a79aa5aae4683\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\b8105250474bf103f3984ad6bec99cda\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\5f949f6160add5b9578de2f05c30e583\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Dream-25\.gradle\caches\transforms-3\4185595e9870ef7e95037978756ee52e\transformed\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\ca3d5930aa63fee079b1a98bcf66b2f2\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dream-25\.gradle\caches\transforms-3\a685a935e54ae69ecbb628516293f138\transformed\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\cbd28caecc18dda8155495f8d2cc07ea\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\79d1c9ad51197f4bf2b6f8a9bd5ef8c5\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\941c1089530a7cbd46c4da6e0408058f\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\044ecc1f452a802d581e585be76b5731\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\4cc3e2ed0d75c73907ce4dc30fdd5cbb\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\9120ff845204ec0e6fd69de863a0571b\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\368f7979e954539136a54334daf07146\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\059b18eab4c91c1bc16c44333c05a5e6\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\0edd563e1a429f7fb1d47ed0b236c1c8\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7c156c634d5fd9576fc877bbad870dd7\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7c88738b9a0c3ea14a418deafe38ae4b\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\ec906b7bc4f75c54efe67e8a585c9a71\transformed\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:4:2-39
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:3:2-60
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:5:2-64
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:5:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:6:2-76
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:6:19-73
+application
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:7:2-50:16
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7dfa422c18ad9223f37c601e951fcfa0\transformed\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7dfa422c18ad9223f37c601e951fcfa0\transformed\AndroidManifest.xml:22:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7bf4aeaa1d95e124243f20a66be76260\transformed\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7bf4aeaa1d95e124243f20a66be76260\transformed\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dream-25\.gradle\caches\transforms-3\8a465f8cfe6f0ab2d5da740546bb407a\transformed\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dream-25\.gradle\caches\transforms-3\8a465f8cfe6f0ab2d5da740546bb407a\transformed\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:28:5-36:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcc516b8613ec61847bcb1ce5dac2a2b\transformed\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcc516b8613ec61847bcb1ce5dac2a2b\transformed\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\f956c16548c58ce1078431fc766c10e2\transformed\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\f956c16548c58ce1078431fc766c10e2\transformed\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcbb152dcd128dd989d8adc79318361a\transformed\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcbb152dcd128dd989d8adc79318361a\transformed\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\80793405049b732c02577f3c2a3e9e7f\transformed\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\80793405049b732c02577f3c2a3e9e7f\transformed\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fa7fe4e9a132905ba31ef98f70bc056c\transformed\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fa7fe4e9a132905ba31ef98f70bc056c\transformed\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\498a5cbbec5c1977c0e9b3942f02bac4\transformed\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\498a5cbbec5c1977c0e9b3942f02bac4\transformed\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Dream-25\.gradle\caches\transforms-3\4185595e9870ef7e95037978756ee52e\transformed\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Dream-25\.gradle\caches\transforms-3\4185595e9870ef7e95037978756ee52e\transformed\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dream-25\.gradle\caches\transforms-3\a685a935e54ae69ecbb628516293f138\transformed\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dream-25\.gradle\caches\transforms-3\a685a935e54ae69ecbb628516293f138\transformed\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Dream-25\.gradle\caches\transforms-3\4185595e9870ef7e95037978756ee52e\transformed\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:9:3-35
+	android:icon
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:10:3-36
+	android:allowBackup
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:8:3-29
+	android:theme
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:12:3-34
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:11:3-38
+activity#com.dreamapp.theClubFactory.MainActivity
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:13:3-25:14
+	android:screenOrientation
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:19:4-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:16:4-38
+	android:exported
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:20:13-36
+	android:supportsPictureInPicture
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:17:4-43
+	android:configChanges
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:15:4-97
+	android:theme
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:18:4-46
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:14:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:21:4-24:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:22:5-57
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:22:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:23:15-62
+activity#com.dreamapp.theClubFactory.WebviewActivity
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:26:3-31:43
+	android:screenOrientation
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:31:4-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:29:4-38
+	android:supportsPictureInPicture
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:30:4-43
+	android:configChanges
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:28:4-97
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:27:4-35
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:32:3-34:60
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\498a5cbbec5c1977c0e9b3942f02bac4\transformed\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\498a5cbbec5c1977c0e9b3942f02bac4\transformed\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:34:4-57
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:33:4-49
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:35:3-39:30
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\80793405049b732c02577f3c2a3e9e7f\transformed\AndroidManifest.xml:12:9-16:39
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\80793405049b732c02577f3c2a3e9e7f\transformed\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:37:4-74
+	android:exported
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:38:4-28
+	android:initOrder
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:39:4-27
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:36:4-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:40:3-46:13
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:42:4-28
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:41:4-75
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:43:4-45:73
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:32:13-34:85
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:45:5-70
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:44:5-97
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:47:3-49:31
+	android:required
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:49:4-28
+	android:name
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml:48:4-41
+uses-sdk
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7dfa422c18ad9223f37c601e951fcfa0\transformed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7dfa422c18ad9223f37c601e951fcfa0\transformed\AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7bf4aeaa1d95e124243f20a66be76260\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7bf4aeaa1d95e124243f20a66be76260\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.mejdi14:Flat-Dialog-Android:1.0.5] C:\Users\Dream-25\.gradle\caches\transforms-3\815560d445068cd144a79823b7882ad0\transformed\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mejdi14:Flat-Dialog-Android:1.0.5] C:\Users\Dream-25\.gradle\caches\transforms-3\815560d445068cd144a79823b7882ad0\transformed\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dream-25\.gradle\caches\transforms-3\8a465f8cfe6f0ab2d5da740546bb407a\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Dream-25\.gradle\caches\transforms-3\8a465f8cfe6f0ab2d5da740546bb407a\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dream-25\.gradle\caches\transforms-3\a10843e442cdb96fff75327367678e29\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dream-25\.gradle\caches\transforms-3\a10843e442cdb96fff75327367678e29\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\236a1a16bd9aa29210d68aedef4f1628\transformed\AndroidManifest.xml:19:5-21:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcc516b8613ec61847bcb1ce5dac2a2b\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcc516b8613ec61847bcb1ce5dac2a2b\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\8ac5107814229ccd8eaf3d766884892c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\8ac5107814229ccd8eaf3d766884892c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\bf46a347bffa5dce9bb1bdcb5b97d2bd\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\bf46a347bffa5dce9bb1bdcb5b97d2bd\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\f956c16548c58ce1078431fc766c10e2\transformed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\f956c16548c58ce1078431fc766c10e2\transformed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcbb152dcd128dd989d8adc79318361a\transformed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcbb152dcd128dd989d8adc79318361a\transformed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\80793405049b732c02577f3c2a3e9e7f\transformed\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\80793405049b732c02577f3c2a3e9e7f\transformed\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fa7fe4e9a132905ba31ef98f70bc056c\transformed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fa7fe4e9a132905ba31ef98f70bc056c\transformed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\498a5cbbec5c1977c0e9b3942f02bac4\transformed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\498a5cbbec5c1977c0e9b3942f02bac4\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\dd95165f5a8cb405c80b45a1836da3a5\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\dd95165f5a8cb405c80b45a1836da3a5\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Dream-25\.gradle\caches\transforms-3\2c81880a3b6f6be97f8a02e61385051e\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Dream-25\.gradle\caches\transforms-3\2c81880a3b6f6be97f8a02e61385051e\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\472d626b2695d04472b5bc1e9db1498e\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\472d626b2695d04472b5bc1e9db1498e\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\e4aac63f6918ce7eaa908441a4245efa\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\e4aac63f6918ce7eaa908441a4245efa\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\d0c569b4c4c5e9c11fe54b0890315606\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\d0c569b4c4c5e9c11fe54b0890315606\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Dream-25\.gradle\caches\transforms-3\23a82155093ff6f57ec4059427f0fa72\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Dream-25\.gradle\caches\transforms-3\23a82155093ff6f57ec4059427f0fa72\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\6aaa0925d076cd9b9fc23140fa4885c0\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\6aaa0925d076cd9b9fc23140fa4885c0\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\781a8f6017fcfc78ca67be60d45a0c75\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\781a8f6017fcfc78ca67be60d45a0c75\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\9ac0419185c097d28e141d1a7c0eaf39\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\9ac0419185c097d28e141d1a7c0eaf39\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\028cb95e81e463f4365fd9d14bdf34f7\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\028cb95e81e463f4365fd9d14bdf34f7\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\426d935ec11949d2be554a5dc048f4db\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\426d935ec11949d2be554a5dc048f4db\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\f6813ee4a60ea2ca6b9a79aa5aae4683\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\f6813ee4a60ea2ca6b9a79aa5aae4683\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\b8105250474bf103f3984ad6bec99cda\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\b8105250474bf103f3984ad6bec99cda\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\5f949f6160add5b9578de2f05c30e583\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\5f949f6160add5b9578de2f05c30e583\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Dream-25\.gradle\caches\transforms-3\4185595e9870ef7e95037978756ee52e\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Dream-25\.gradle\caches\transforms-3\4185595e9870ef7e95037978756ee52e\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\ca3d5930aa63fee079b1a98bcf66b2f2\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\ca3d5930aa63fee079b1a98bcf66b2f2\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dream-25\.gradle\caches\transforms-3\a685a935e54ae69ecbb628516293f138\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dream-25\.gradle\caches\transforms-3\a685a935e54ae69ecbb628516293f138\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\cbd28caecc18dda8155495f8d2cc07ea\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\cbd28caecc18dda8155495f8d2cc07ea\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\79d1c9ad51197f4bf2b6f8a9bd5ef8c5\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Dream-25\.gradle\caches\transforms-3\79d1c9ad51197f4bf2b6f8a9bd5ef8c5\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\941c1089530a7cbd46c4da6e0408058f\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\941c1089530a7cbd46c4da6e0408058f\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\044ecc1f452a802d581e585be76b5731\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\044ecc1f452a802d581e585be76b5731\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\4cc3e2ed0d75c73907ce4dc30fdd5cbb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\4cc3e2ed0d75c73907ce4dc30fdd5cbb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\9120ff845204ec0e6fd69de863a0571b\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\9120ff845204ec0e6fd69de863a0571b\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\368f7979e954539136a54334daf07146\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\368f7979e954539136a54334daf07146\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\059b18eab4c91c1bc16c44333c05a5e6\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\059b18eab4c91c1bc16c44333c05a5e6\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\0edd563e1a429f7fb1d47ed0b236c1c8\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\0edd563e1a429f7fb1d47ed0b236c1c8\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7c156c634d5fd9576fc877bbad870dd7\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7c156c634d5fd9576fc877bbad870dd7\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7c88738b9a0c3ea14a418deafe38ae4b\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\7c88738b9a0c3ea14a418deafe38ae4b\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\ec906b7bc4f75c54efe67e8a585c9a71\transformed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\ec906b7bc4f75c54efe67e8a585c9a71\transformed\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dream-25\Desktop\The_Club_Factory_RCM\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcbb152dcd128dd989d8adc79318361a\transformed\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcbb152dcd128dd989d8adc79318361a\transformed\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcbb152dcd128dd989d8adc79318361a\transformed\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dream-25\.gradle\caches\transforms-3\fcbb152dcd128dd989d8adc79318361a\transformed\AndroidManifest.xml:24:13-79
